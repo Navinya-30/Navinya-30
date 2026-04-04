@@ -1,4 +1,4 @@
-Hi 👋 My name is Navinya
+Hi 👋 Iam Navinya
 ========================
 
 Passionate Learner
