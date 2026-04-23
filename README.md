@@ -4,6 +4,12 @@ Hi 👋 Iam Navinya
 Passionate Learner
 ------------------
 
+### 🤖 About Me
+- 🧠 Interested in **real-world AI integrated applications**
+- 🌱 Learning by building **AI, DS, and data-driven projects**
+- 🚀 Passionate about solving problems using technology
+- 💻 Strong foundation in **HTML, CSS, JavaScript, C**
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/navinya-ghanekar-479251328/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:navinyaghanekar30@gmail.com) 
 
