@@ -13,12 +13,21 @@ Passionate Learner
 ### 🧠 Coding Profile
 <p>
   <a href="https://www.hackerrank.com/profile/navinyaghanekar1" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-maskevatsal87-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+    <img src="https://img.shields.io/badge/HackerRank-navinyaghanekar1-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
 </p>
+
+## 📫 Reach me
+- **Email:** navinyaghanekar30@gmail.com  
 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Navinya-30&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+## 🤝 Let’s Collaborate
+- Open to **learning, collaboration, and internships**
+- Interested in **Java, impactful tech projects and WebApps **
+
+⭐ *Feel free to check out my repositories and connect!*
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
